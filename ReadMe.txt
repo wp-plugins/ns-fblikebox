@@ -17,6 +17,10 @@ NS Facebook LikeBox enables users to:
 -Like the Page with one click, without needing to visit the facebook Page.
 -Show stream from their Facebook page.
 
+= Plugin Info =
+
+* Developed by [Miodrag Rasic] & [NetScripter](http://netscripter.me/)
+
 == Installation ==
 
  - From The WordPress Dashboard
@@ -65,7 +69,3 @@ NOTICE: Facebook Like Box is only for Fan Pages and not for your personal page. 
 == Changelog ==
 
 This is completely brand new version of this plugin.
-
-= Plugin Info =
-
-* Developed by [Miodrag Rasic] & [NetScripter](http://netscripter.me/)
