@@ -1,0 +1,68 @@
+# Copyright (C) 2014 NS Facebook Likebox
+# This file is distributed under the same license as the NS Facebook Likebox package.
+msgid ""
+msgstr ""
+"Project-Id-Version: NS Facebook Likebox 1.0.\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/ns-fblikebox\n"
+"POT-Creation-Date: 2014-10-14 17:39:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: ns-fblikebox.php:127
+msgid "Apps Id:"
+msgstr ""
+
+#: ns-fblikebox.php:133
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: ns-fblikebox.php:137
+msgid "Width:"
+msgstr ""
+
+#: ns-fblikebox.php:141
+msgid "Height:"
+msgstr ""
+
+#: ns-fblikebox.php:146
+msgid "Show Face:"
+msgstr ""
+
+#: ns-fblikebox.php:151
+msgid "Color Scheme:"
+msgstr ""
+
+#: ns-fblikebox.php:160
+msgid "Show stream:"
+msgstr ""
+
+#: ns-fblikebox.php:165
+msgid "Show Border:"
+msgstr ""
+
+#: ns-fblikebox.php:170
+msgid "Show Header:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "NS Facebook Likebox"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (NS Facebook Likebox 1.0.)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (NS Facebook Likebox 1.0.)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://netscripter.me"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This is Facebook Likebox Widget for WordPress."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "NetScripter"
+msgstr ""
