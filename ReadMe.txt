@@ -66,6 +66,14 @@ NOTICE: Facebook Like Box is only for Fan Pages and not for your personal page. 
 2. Light version
 3. Dark version
 
+== Frequently Asked Questions ==
+
+= Does the plugin support localization? =
+
+Yes, you can find .POT file in a folder "languages".
+
+Please send your localization files (.mo и .po) to admin@netscripter.me
+
 == Changelog ==
 
 This is completely brand new version of this plugin.
