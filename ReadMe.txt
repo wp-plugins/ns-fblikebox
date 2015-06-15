@@ -1,6 +1,6 @@
 === NS FBLikeBox ===
 Contributors: Miodrag Rasic
-Tags: facebook, facebook like box, fb like box, widget, like box, simple
+Tags: facebook, facebook like box, fb like box, netscripter, widget, like box, simple
 Requires at least: 3.0
 Tested up to: 4
 Stable tag: trunk
