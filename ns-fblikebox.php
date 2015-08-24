@@ -5,7 +5,7 @@
      * Author: NetScripter
      * Author URI: http://netscripter.me
      * Description: This is Facebook Likebox Widget for WordPress.
-     * Version: 1.0.
+     * Version: 1.1
      */
 
     add_action('widgets_init','register_netscripter_fblikebox');
@@ -19,7 +19,7 @@
 
     	function netscripter_Fblikebox()
     	{
-    		$this->WP_Widget( 'netscripter_fblikebox','Netscripter Facebook Likebox',array('description' => 'This is Facebook Likebox Widget for WordPress.'));
+    		parent::__construct( 'netscripter_fblikebox','Netscripter Facebook Likebox',array('description' => 'This is Facebook Likebox Widget for WordPress.'));
     	}
 
 /**

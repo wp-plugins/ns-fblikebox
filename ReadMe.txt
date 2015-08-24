@@ -2,7 +2,7 @@
 Contributors: Miodrag Rasic
 Tags: facebook, facebook like box, fb like box, netscripter, widget, like box, simple
 Requires at least: 3.0
-Tested up to: 4.2.2
+Tested up to: 4.3.0
 Stable tag: trunk
 License: GNU General Public License
 License URI: http://www.gnu.org/licenses/
@@ -76,4 +76,12 @@ Please send your localization files (.mo и .po) to admin@netscripter.me
 
 == Changelog ==
 
+= 1.1 =
+* Changed WP_Widget that is deprecated since version 4.3.0, to __construct.
+
 This is completely brand new version of this plugin.
+
+== Upgrade Notice ==
+
+= 1.1 =
+This version makes NS FBLikeBox compatibile with 4.3.0 release and remove  WP_Widget is deprecated since version 4.3.0! Use __construct() Notice. Upgrade immediately.
