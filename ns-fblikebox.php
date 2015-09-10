@@ -1,9 +1,9 @@
 <?php
     /*
      * Plugin Name: NS Facebook Likebox
-     * Plugin URI: http://netscripter.me
+     * Plugin URI: http://netscripter.info
      * Author: NetScripter
-     * Author URI: http://netscripter.me
+     * Author URI: http://netscripter.info
      * Description: This is Facebook Likebox Widget for WordPress.
      * Version: 1.1
      */

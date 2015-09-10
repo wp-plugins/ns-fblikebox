@@ -19,7 +19,7 @@ NS Facebook LikeBox enables users to:
 
 = Plugin Info =
 
-* Developed by [Miodrag Rasic] & [NetScripter](http://netscripter.me/)
+* Developed by [Miodrag Rasic] & [NetScripter](http://netscripter.info/)
 
 == Installation ==
 
@@ -72,7 +72,7 @@ NOTICE: Facebook Like Box is only for Fan Pages and not for your personal page. 
 
 Yes, you can find .POT file in a folder "languages".
 
-Please send your localization files (.mo и .po) to admin@netscripter.me
+Please send your localization files (.mo и .po) to admin@netscripter.info
 
 == Changelog ==
 
